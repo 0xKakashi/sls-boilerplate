@@ -1,0 +1,30 @@
+{
+  "name": "sls-boilerplate",
+  "version": "1.0.0",
+  "description": "Serverless Framework Boilerplate Template",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "src": "src",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xkakashi/sls-boilerplate.git"
+  },
+  "keywords": [
+    "serverless",
+    "nodejs",
+    "aws",
+    "boilerplate",
+    "template"
+  ],
+  "author": "Kakashi <kakashi.crypto@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.763.0"
+  }
+}
