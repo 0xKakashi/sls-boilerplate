@@ -12,7 +12,7 @@ __DOCUMENTATION__
 * [AWS](https://docs.aws.amazon.com)
 * [Node.js](https://nodejs.org)
 * [NPM](https://npmjs.com)
-
+* [JSDoc](https://jsdoc.app/)
 
 __PACKAGES__
 
